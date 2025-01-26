@@ -131,16 +131,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 For issues/questions:
 - [Open GitHub Issue](https://github.com/Ananya-Addisu/p2p-chat/)
 - Email: sidraq@codeday.org
-
-This README includes:
-
-1. **Badges** - Quick visual indicators for Rust version and license
-2. **Features** - Organized security/networking/interface sections
-3. **Installation** - Step-by-step build instructions
-4. **Usage** - Practical examples and command reference
-5. **Protocol Details** - Technical implementation specifics
-6. **Security Notes** - Clear disclosure of limitations
-7. **Contributing Guide** - Standard open-source workflow
-8. **Support Info** - Multiple contact options
-
-
